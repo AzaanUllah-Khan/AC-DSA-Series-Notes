@@ -35,7 +35,7 @@ The notes provided in this repository are intended for educational purposes and 
 
 ## About the Creator
 
-These notes are created by AzaanUllah Khan, a dedicated learner and aspiring web developer. The goal of this repository is to share knowledge and support others in their learning journey. By making these notes available, I hope to contribute to the educational community and assist others in mastering Data Structures and Algorithms.
+These notes are created by **AzaanUllah Khan**, a dedicated learner and aspiring web developer. The goal of this repository is to share knowledge and support others in their learning journey. By making these notes available, I hope to contribute to the educational community and assist others in mastering Data Structures and Algorithms.
 
 ## Connect with Me
 
