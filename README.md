@@ -20,8 +20,8 @@ This repository is organized to facilitate a smooth learning experience:
 
 Your contributions can greatly enhance the value of this repository:
 
-- **Feedback**: If you notice any errors, inaccuracies, or have suggestions for improving the notes, please [open an issue](https://github.com/your-repo/issues). Your feedback is crucial for maintaining the quality and accuracy of the content.
-- **Contributions**: Feel free to [submit a pull request](https://github.com/your-repo/pulls) if you would like to contribute additional notes or improvements. Collaborative efforts are welcomed and appreciated.
+- **Feedback**: If you notice any errors, inaccuracies, or have suggestions for improving the notes, please [open an issue](https://github.com/AzaanUllah-Khan/AC-DSA-Series-Notes/issues). Your feedback is crucial for maintaining the quality and accuracy of the content.
+- **Contributions**: Feel free to [submit a pull request](https://github.com/AzaanUllah-Khan/AC-DSA-Series-Notes/pulls) if you would like to contribute additional notes or improvements. Collaborative efforts are welcomed and appreciated.
 
 If these notes are helpful to you, consider starring the repository to show your support. Additionally, [follow me on GitHub](https://github.com/AzaanUllah-Khan) for updates on new content and related projects.
 
