@@ -35,13 +35,13 @@ The notes provided in this repository are intended for educational purposes and 
 
 ## About the Creator
 
-These notes are created by Huriya Rizwan, a dedicated learner and aspiring software engineer. The goal of this repository is to share knowledge and support others in their learning journey. By making these notes available, I hope to contribute to the educational community and assist others in mastering Data Structures and Algorithms.
+These notes are created by AzaanUllah Khan, a dedicated learner and aspiring web developer. The goal of this repository is to share knowledge and support others in their learning journey. By making these notes available, I hope to contribute to the educational community and assist others in mastering Data Structures and Algorithms.
 
 ## Connect with Me
 
 For any inquiries or to connect with me, you can reach out through the following profiles:
 
-- [LinkedIn](https://www.linkedin.com/in/huriya-rizwan): Connect with me on LinkedIn to stay updated on my professional journey and other projects.
+- [LinkedIn](https://www.linkedin.com/in/azaanullahkhan): Connect with me on LinkedIn to stay updated on my professional journey and other projects.
 - [GitHub](https://github.com/AzaanUllah-Khan): Follow my GitHub profile to explore my other repositories and projects.
 
 For a detailed list of classes and topics, please refer to the [Table of Contents](Table.md).
